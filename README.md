@@ -15,11 +15,11 @@ Welcome to my repository! This is a living document and workspace where I track 
 
 ### Phase 1: Foundations (In Progress ⏳)
 - [x] Basic Statistics & Mathematics
-- [ ] Excel for Data Analysis (Pivot Tables, VLOOKUP, Advanced Formulas)
-- [ ] SQL Basics (Joins, Aggregations, Subqueries)
+- [x] Excel for Data Analysis (Pivot Tables, VLOOKUP, Advanced Formulas)
+- [ ] Python for Data Science (NumPy, Pandas, Matplotlib, Seaborn)
 
 ### Phase 2: Programming & Tools
-- [ ] Python for Data Science (NumPy, Pandas, Matplotlib, Seaborn)
+- [ ] SQL Basics (Joins, Aggregations, Subqueries)
 - [ ] Data Visualization (Tableau or Power BI)
 - [ ] Exploratory Data Analysis (EDA) techniques
 
@@ -48,8 +48,8 @@ Welcome to my repository! This is a living document and workspace where I track 
 ---
 
 ## 📫 Connect with me
-*   **LinkedIn:** [Your Link Here]
-*   **Email:** [Your Email Here]
+*   **LinkedIn:** []
+*   **Email:** []
 
 ---
 *Last updated: March 2024*
